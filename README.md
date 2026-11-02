@@ -1,1 +1,1 @@
-// java-basics-variant-1
+java-basics-variant-1
